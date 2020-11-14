@@ -30,7 +30,7 @@ class Funds extends Component{
         const {name, type,oneyearReturn, threeyearReturn,fiveyearReturn} = this.props
         return (
             <div className="card" style={{margin:"15px"}}>
-                <div className="row" style={{marginTop:"10px"}}>
+            <div className="row" style={{marginTop:"10px"}}>
                     <div className="col-2">
                         <img src="https://static.paytmmoney.com/amc-logo/SBIMF.png" alt="John" style={{width:"100%", height:"50px", left:"10px"}}/>
                     </div>
